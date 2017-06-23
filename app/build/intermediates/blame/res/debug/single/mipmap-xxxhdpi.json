@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

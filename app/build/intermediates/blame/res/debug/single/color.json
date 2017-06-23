@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/317e4aa11f450fb254d3052588af0080b4b9072f/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/317e4aa11f450fb254d3052588af0080b4b9072f/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/luigiguarnieri/.android/build-cache/5041d0a502a64d77da60b6a16040863de3a360cd/output/res/color/abc_hint_foreground_material_light.xml"
+    }
+]

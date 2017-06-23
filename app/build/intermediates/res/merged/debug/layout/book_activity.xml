@@ -1,0 +1,27 @@
+<!-- Layout for a grid of books -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColorBookActivity">
+
+    <ProgressBar
+        android:id="@+id/loading_indicator"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/default_padding"
+        android:indeterminate="true" />
+
+    <GridView
+        android:id="@+id/grid"
+        style="@style/book_activity_grid_view">
+
+    </GridView>
+
+    <!-- Empty view is only visible when the grid has no items. -->
+    <TextView
+        android:id="@+id/empty_view"
+        tools:text="@string/no_search_results"
+        style="@style/book_activity_empty_text_view" />
+
+</RelativeLayout>
