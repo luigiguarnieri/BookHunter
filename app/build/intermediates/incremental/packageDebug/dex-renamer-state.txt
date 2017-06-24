@@ -1,7 +1,0 @@
-#Fri Jun 23 22:48:49 CEST 2017
-base.0=/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8bc612ba513b50050bc33311319299c567228c27
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_685d800939dfde69ebf3cdf4797fa6a50d685aa6/classes.dex
-base.1=/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_685d800939dfde69ebf3cdf4797fa6a50d685aa6
-file.0=/Users/luigiguarnieri/AndroidStudioProjects/BookSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8bc612ba513b50050bc33311319299c567228c27/classes.dex
