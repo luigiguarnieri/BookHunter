@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/grid_view_default_width"
+    android:layout_height="@dimen/grid_view_default_height"
+    android:orientation="vertical"
+    android:background="@color/backgroundColorGridItem">
+
+    <ImageView
+        android:id="@+id/book_cover"
+        tools:src="@drawable/no_book_cover"
+        tools:targetApi="jelly_bean"
+        tools:ignore="ContentDescription"
+        style="@style/grid_book_cover_image_view" />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_below="@id/book_cover"
+    android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/book_title"
+            tools:text="@string/dummy_book_title"
+            tools:targetApi="jelly_bean"
+            style="@style/grid_book_title_text_view" />
+
+        <TextView
+            android:id="@+id/book_author"
+            tools:text="@string/dummy_book_author"
+            style="@style/grid_book_author_text_view" />
+
+</LinearLayout>
+    <ImageView
+        android:src="@drawable/ic_keyboard_arrow_right"
+        tools:ignore="ContentDescription,RtlHardcoded"
+        style="@style/grid_arrow_image_view" />
+
+</RelativeLayout>

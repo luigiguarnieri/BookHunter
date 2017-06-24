@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Book Hunter</string>
+
+    <!-- Default text to show as hint for the SearchView -->
+    <string name="search_hint">Search for books on Google</string>
+
+    <!-- Label for BookDetailActivity -->
+    <string name="title_activity_book_detail">Book Details</string>
+
+    <!-- Label for SearchView -->
+    <string name="search_view_title">Search</string>
+
+    <!-- Default text to show as service message in the BookDetailActivity -->
+    <string name="image_view_more_details">Touch book cover for more details</string>
+
+    <!-- Default text to show when no book are found during the query -->
+    <string name="empty_view">No book found.</string>
+
+    <!-- Default text to show when there's no internet connection. -->
+    <string name="no_network_connection">No internet connection.</string>
+
+    <!-- Default text to show when there's no result for the query. -->
+    <string name="no_search_results">No book found.</string>
+
+    <!-- Dummy strings to test layout for the TextViews. -->
+    <string name="dummy_book_description">THE PHENOMENAL EPIC OF GOOD AND EVIL LIKE IT’S NEVER BEEN EXPERIENCED BEFORE Thirty-five years ago, Terry Brooks brought to life a dazzling world in The Sword of Shannara. Nineteen more Shannara volumes would follow, making the series one of the most popular fantasy epics of all time. Now comes a fully annotated collector’s edition of the novel that started it all—featuring never-before-shared insights into the classic tale, an all-new introduction by the New York Times bestselling author, and replicas of the original sketches for some of the long-lost, black-and-white paintings by the Brothers Hildebrandt that decorated the original edition, and a replica of the original Hildebrandt central color plate on the back of the jacket.. Long ago, wars ravaged the world. In peaceful Shady Vale, half-elfin Shea Ohmsford knows little of such troubles. Then the giant, forbidding Allanon reveals that the supposedly dead Warlock Lord is plotting to destroy everything in his wake. The sole weapon against this Power of Darkness is the Sword of Shannara, which can be used only by a true heir of Shannara. On Shea, last of the bloodline, rests the hope of all the races. Soon a Skull Bearer, dread minion of a mighty evil, flies into the Vale, seeking to destroy Shea. To save his home, Shea must flee, drawing the Skull Bearer after him in menacing pursuit. Thus begins the enthralling Shannara epic, a spellbinding tale of adventure, magic, and myth. PRAISE FOR TERRY BROOKS “The Sword of Shannara is an unforgettable and wildly entertaining epic, animated by Terry Brooks’s cosmically generative imagination and storytelling joy. This was one of my favorite fictional worlds growing up, and I look forward to many return trips.”—Karen Russell, New York Times bestselling author of Swamplandia! “Terry Brooks has been my constant companion over a lifetime of exploring my beloved fantasy genre. I say with all honesty I would not be writing epic fantasy today if not for Shannara. If Tolkien is the grandfather of modern fantasy, Terry Brooks is its favorite uncle.”—Peter V. Brett, New York Times bestselling author of The Desert Spear “I can’t even begin to count how many of Terry Brooks’s books I’ve read (and reread) over the years. From Shannara to Landover, his work was a huge part of my childhood.”—Patrick Rothfuss, New York Times bestselling author of The Name of the Wind “Terry Brooks is a master of the craft and a trailblazer who established fantasy as a viable genre. Not only do I owe him for many hours of reading pleasure, I owe him my job. He is required reading.”—Brent Weeks, New York Times bestselling author of The Night Angel Trilogy “The Shannara books were among the first to really capture my imagination. I didn’t just enjoy reading the novels—the world became so real that I would spend hours creating Shannara fan-fiction in my mind. My daydreams and therefore my stories will always owe a debt to Terry Brooks.”—Brandon Mull, #1 New York Times bestselling author of the Beyonders and Fablehaven series From the Hardcover edition.</string>
+    <string name="dummy_book_title">Il ciclo degli eredi di Shannara - La Spada di Shannara - Il Primo Re</string>
+    <string name="dummy_book_author">Terry Brooks</string>
+    <string name="dummy_book_publisher">Edizioni Mondadori</string>
+    <string name="dummy_book_published_date">June 21, 2017</string>
+    <string name="dummy_book_pages">1416 pages</string>
+
+</resources>

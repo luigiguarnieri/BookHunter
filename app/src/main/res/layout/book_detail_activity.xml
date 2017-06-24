@@ -1,0 +1,79 @@
+<!-- Layout for the book detail screen -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BookActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/default_padding"
+        android:paddingRight="@dimen/default_padding">
+
+        <TextView
+            android:id="@+id/book_title"
+            tools:text="@string/dummy_book_title"
+            style="@style/details_book_title_text_view" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/details_book_cover_height"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/book_cover"
+                tools:src="@drawable/no_book_cover"
+                tools:targetApi="jelly_bean"
+                tools:ignore="ContentDescription"
+                style="@style/details_book_cover_image_view" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/default_padding"
+                android:layout_marginStart="@dimen/default_padding"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/book_author"
+                    tools:text="@string/dummy_book_author"
+                    style="@style/details_book_author_text_view" />
+
+                <TextView
+                    android:id="@+id/book_publisher"
+                    tools:text="@string/dummy_book_publisher"
+                    tools:targetApi="jelly_bean"
+                    style="@style/details_book_detail_text_view" />
+
+                <TextView
+                    android:id="@+id/book_publish_date"
+                    style="@style/details_book_detail_text_view"
+                    tools:text="@string/dummy_book_published_date" />
+
+                <TextView
+                    android:id="@+id/book_pages"
+                    style="@style/details_book_detail_text_view"
+                    tools:text="@string/dummy_book_pages" />
+
+                <RatingBar
+                    android:id="@+id/book_rating"
+                    tools:numStars="5"
+                    style="@style/details_book_rating_bar_view" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:text="@string/image_view_more_details"
+            tools:ignore="RtlHardcoded"
+            style="@style/details_book_service_message_text_view" />
+
+        <TextView
+            android:id="@+id/book_description"
+            tools:text="@string/dummy_book_description"
+            style="@style/details_book_description_text_view" />
+    </LinearLayout>
+</ScrollView>

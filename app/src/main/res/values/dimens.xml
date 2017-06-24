@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="details_book_cover_height">178dp</dimen>
+    <dimen name="grid_view_default_width">115dp</dimen>
+    <dimen name="grid_view_default_height">255dp</dimen>
+    <dimen name="grid_view_default_book_cover_image_view_height">173dp</dimen>
+</resources>

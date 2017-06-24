@@ -1,0 +1,141 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="details_book_title_text_view">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:paddingBottom">@dimen/default_padding</item>
+        <item name="android:paddingTop">@dimen/default_padding</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/textColorBookMainViews</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+    </style>
+
+    <style name="details_book_cover_image_view">
+        <item name="android:layout_width">128dp</item>
+        <item name="android:layout_height">@dimen/details_book_cover_height</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="details_book_author_text_view">
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/textColorBookMainViews</item>
+    </style>
+
+    <style name="details_book_detail_text_view">
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/textColorBookDetails</item>
+    </style>
+
+    <style name="details_book_rating_bar_view">
+        <item name="android:layout_width">235dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleX">.5</item>
+        <item name="android:scaleY">.5</item>
+        <item name="android:transformPivotX">0dp</item>
+        <item name="android:transformPivotY">0dp</item>
+        <item name="android:isIndicator">true</item>
+        <item name="android:max">5</item>
+    </style>
+
+    <style name="details_book_description_text_view">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
+    <style name="details_book_service_message_text_view">
+        <item name="android:drawableLeft">@drawable/ic_keyboard_arrow_right</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/textColorBookMainViews</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="book_activity_grid_view">
+        <item name="android:layout_below">@id/loading_indicator</item>
+        <item name="android:divider">@color/colorAccent</item>
+        <item name="android:dividerHeight">2dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:columnWidth">90dp</item>
+        <item name="android:numColumns">@integer/columns</item>
+        <item name="android:verticalSpacing">10dp</item>
+        <item name="android:horizontalSpacing">10dp</item>
+        <item name="android:stretchMode">columnWidth</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="book_activity_empty_text_view">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
+    <style name="grid_book_cover_image_view">
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:layout_width">@dimen/grid_view_default_width</item>
+        <item name="android:layout_height">@dimen/grid_view_default_book_cover_image_view_height
+        </item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+    <style name="grid_book_title_text_view">
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textColor">@color/textColorBookMainViews</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="grid_book_author_text_view">
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="grid_arrow_image_view">
+        <item name="android:layout_width">25dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:tint">@color/textColorBookDetails</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+
+</resources>
